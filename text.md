@@ -20,8 +20,8 @@ numpy.pluralized('goose') # return 'geese'
 numpy.singularize('phenomena') # returns 'phenomenon'
 '''
 
-![alt text](https://www.stelllaandchewys.com/wp-content/uploads/maplechristmas.jpg)
-![alt_sloth](https://static01.nyt.com/images/2014/01/28/science/28LOT-jumbo.jpg)
+![alt_text](https://www.sciencemag.org/sites/default/files/styles/inline__699w__no_aspect/public/dogs_1280p_0.jpg?itok=_Ch9dkfK)
+![alt_sloth](https://images.unsplash.com/photo-1536524293309-dec90390d9fd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80)
 
 ##Contributing
 
