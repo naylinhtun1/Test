@@ -55,7 +55,7 @@ please make sure to update tests as appropriate.
 -text in red 
 +text in green
 !text in orange
-#text in gry 
+#text in gray 
 '''
 
 '''diff
@@ -68,6 +68,8 @@ please make sure to update tests as appropriate.
 
 
 '''diff
+'''
+'''
 -text
 +word
 !character
